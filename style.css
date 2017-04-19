@@ -1,0 +1,18 @@
+/*nav {
+  opacity: 0.5;
+   background: #fc0;
+   padding: 5px;
+   position: fixed;
+   overflow: absolute;
+}*/
+.zz {
+  background: lightgrey;
+}
+img {
+float: left;
+}
+.fl {
+  text-decoration: underline;
+  font-family: Pompadur, 'Comic Sans MS', cursive;
+  src: url(./lesson17/zaap.ttf);
+}
